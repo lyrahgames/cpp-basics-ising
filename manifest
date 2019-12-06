@@ -1,0 +1,11 @@
+: 1
+name: ising
+version: 0.1.0-a.0.z
+summary: ising C++ executable
+license: proprietary
+description-file: README.md
+url: https://example.org/ising
+email: markuspawellek@gmail.com
+depends: * build2 >= 0.10.0
+depends: * bpkg >= 0.10.0
+#depends: libhello ^1.0.0
